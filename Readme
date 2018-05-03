@@ -1,0 +1,12 @@
+Information about the files:
+Please keep all the files in a single folder and run the main.py or main_ac.py or main_cnn.py for different approach.
+
+ImageEnv - env.py
+Network Definition - DQN.py, ActorCritic.py
+RL Agent with Actor Critic - RL_Agent_ac.py
+RL Agent with DQN - RL_Agent.py
+RL Agent with CNN - RL_Agent_CNN.py
+File to run for RL Agent with Actor Critic - main_ac.py
+File to run for RL Agent with DQN - main.py
+File to run for RL Agent with CNN - main_cnn.py
+
